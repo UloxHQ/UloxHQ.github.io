@@ -6,13 +6,13 @@ body {
 .topnav {
   overflow: hidden;
   background-color: #333;
+  width: 1000px;
 }
 
 .topnav a {
   float: left;
   color: #f2f2f2;
   text-align: center;
-  width: 1000px;
   padding: 15px 15px;
   text-decoration: none;
   font-size: 15px;
